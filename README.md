@@ -2,7 +2,13 @@
 
 This dataset was collected for the purpose to understand the proximity between any two smartwatches worn by human.
 We used the Google's Wear OS based smartwatch, powered by a Qualcomm Snapdragon Wear 3100 processor, from Fossil sport to collect the data.
-The smartwatch is powered by a Qualcomm Snapdragon Wear 3100 processor and has an internal memory of up to 1~GB.
+The smartwatch is powered by a Qualcomm Snapdragon Wear 3100 processor and has an internal memory of up to 1GB.
+
+<p align="center">
+  <img alt="Smartphones carried by users on different body positions" 
+       width="500" height="378"
+       src="/figure/watch data collection illustration.png" />
+</p>
 
 Two volunteers were required to wear the smartwatch on different hand and stand at a certain distance from each other.
 The direct data refers to the dataset collected when one volunteer wore the smartwatch on the left hand and the other on the right hand; 
