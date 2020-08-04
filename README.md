@@ -6,7 +6,7 @@ The smartwatch is powered by a Qualcomm Snapdragon Wear 3100 processor and has a
 
 <p align="center">
   <img alt="Smartphones carried by users on different body positions" 
-       width="500" height="378"
+       width="500" height="200"
        src="/figure/watch data collection illustration.png" />
 </p>
 
@@ -38,3 +38,10 @@ The final dataset consists the following information:
   <li>min RSS</li>
   <li>The range of RSS</li>
 </ul>
+
+# Paper
+Refer to the following paper for more information.
+
+P. C. Ng, P. Spachos, S. Gregory and K. N. Plataniotis, "Epidemic Exposure Notification with Smartwatch: A Proximity-Based Privacy-Preserving Approach," in IEEE Internet of Things Journal, vol. x, no. x, pp. xx-xx, 2020 (submitted).
+
+Preprint: https://arxiv.org/abs/2007.04399
