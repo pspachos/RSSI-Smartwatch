@@ -13,7 +13,7 @@ The smartwatch is powered by a Qualcomm Snapdragon Wear 3100 processor and has a
 Two volunteers were required to wear the smartwatch on different hand and stand at a certain distance from each other.
 The direct data refers to the dataset collected when one volunteer wore the smartwatch on the left hand and the other on the right hand; 
 whereas the crosswise data refers to the dataset collected when both volunteers wore the smartwatch on the same hand.
-Both smartwatches will log the following information:
+Both smartwatches log the following information:
 <ul>
   <li>the truth distance,</li>
   <li>name of the smartphone,</li>
