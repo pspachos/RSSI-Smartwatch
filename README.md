@@ -1,4 +1,4 @@
-# rss_smartwatch
+# RSS data from smartwatch for Contact Tracing
 
 This dataset was collected for the purpose to understand the proximity between any two smartwatches worn by human.
 We used the Google's Wear OS based smartwatch, powered by a Qualcomm Snapdragon Wear 3100 processor, from Fossil sport to collect the data.
